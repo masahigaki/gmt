@@ -1,4 +1,4 @@
-#! /bin/sh -xe
+#!/usr/bin/env bash
 #
 #       Examples of how to use grdbarb
 #
