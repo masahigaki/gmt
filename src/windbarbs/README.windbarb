@@ -16,8 +16,6 @@ This directory contains:
 	psbarb.c		psbarb C program code
 	windbarb.c		windbarb C library code
 	windbarb.h		windbarb C include file
-	grdbarb_example.sh	sample script for grdbarb
-	psbarb_example.sh	sample script for psbarb
 
 This package contains two programs that may be useful
 for meteorologists to draw a wind field with wind barbs.
@@ -35,4 +33,4 @@ give full description of the program interfaces.
 The author would like to thank Mr KATO Masaya, Nagoya University for
 developing and maintaining the Wind Barb Extension for GMT 3-4.
 ( http://www.rain.hyarc.nagoya-u.ac.jp/~kato/work/GMT/index-e.html )
-The extension for GMT 5 is based on his great work.
+The extension for GMT >=5 is based on his great work.
